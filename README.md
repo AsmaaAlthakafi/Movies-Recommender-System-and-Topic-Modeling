@@ -10,6 +10,7 @@ We obtained the dataset from Kaggle.com (from this link) and it consists of 45K 
 -	original_title: The name of the movie.
 -	overview: The plot of the movie from TMDB.
 -	genres: The genres of the movie.
+
 In addition, we will use The Movie Database (TMDB) API to retrieve the keywords for each movie and we will scrape the plots of the movies from IMDB to increase our word count. Here are the additional features:
 -	keywords: The keywords that describe the movie.
 -	imdb_plot: The plot of the movie from IMDB.
